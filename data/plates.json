@@ -1,5 +1,5 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), a miniature from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) and Jeanne's signature on a letter of 1430; public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), a miniature from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
@@ -22,6 +22,13 @@
    "titel": "'Jehanne'",
    "caption": "The name at the foot of her letter to the people of Reims, written from Sully on 16 March 1430. She could not write; the letters she sent were dictated, and she seems to have learned to sign her name in the last year of her freedom. At Rouen the abjuration of 24 May 1431 was signed, by the witnesses' account, with a cross or a mark.",
    "source": "Letter to the inhabitants of Reims, 16 March 1430, family archives of Maleissye (reproduction); via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "articles",
+   "side": "court",
+   "titel": "'Et primo, quædam fœmina dicit'",
+   "caption": "The page of Quicherat's edition where the Twelve Articles begin: 'And first, a certain woman says and affirms that when she was thirteen years old...'. The articles name her nowhere; they were sent to the consultors at Rouen and to the University of Paris as propositions to be judged, not as the words of a person (Art. Twelve [1]).",
+   "source": "J. Quicherat, Procès de condamnation, vol. I (Paris 1841), p. 328; Internet Archive, procsdecondam01joanuoft (public domain)."
   }
  ]
 }
