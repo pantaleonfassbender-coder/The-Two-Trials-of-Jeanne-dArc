@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "The Two Trials of Jeanne d'Arc: A Documentary Apparatus, 1429–1456"
+message: "If you use this apparatus, please cite it as below — and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/The-Two-Trials-of-Jeanne-dArc"
+url: "https://the-two-trials.netlify.app/"
+abstract: >-
+  A documentary apparatus for the two trials of Jeanne d'Arc, the trial of
+  condemnation at Rouen (1431) and the trial of nullity (1456), with the
+  years from Chinon (1429) between them, built from public-domain editions
+  with the original (Latin, Middle French, German) beside a working English
+  translation, every excerpt read against the page images: the
+  interrogations, the Twelve Articles and the verdicts of the University of
+  Paris, the abjuration, relapse and sentence (Quicherat I, 1841); Jeanne's
+  letters and Christine de Pizan's Ditie (Quicherat V, 1849); the Journal
+  of the siege of Orleans and Monstrelet's Burgundian chronicle (Quicherat
+  IV, 1847); the friars Isambart de la Pierre and Martin Ladvenu before the
+  inquiry of 1450, six witnesses of 1456, and the sentence of nullity
+  (Quicherat II-III, 1844-1845). With a timeline, a Compare page, twelve
+  plates, and an explicit list of what is not carried and why. The burning
+  itself is not described. Companion game: En nom Dieu.
+keywords:
+  - Jeanne d'Arc
+  - Joan of Arc
+  - trial of condemnation
+  - trial of nullity
+  - Hundred Years War
+  - Pierre Cauchon
+  - Christine de Pizan
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-01

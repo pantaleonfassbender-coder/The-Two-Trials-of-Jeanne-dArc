@@ -71,16 +71,52 @@
    "kurz": "The end, as two friars remembered it (1450)",
    "zk": "End",
    "warum": "Isambart de la Pierre and Martin Ladvenu before the first royal inquiry of March 1450, from Quicherat's second volume (1844), read against the page images, in French with a working translation: the appeal to the council of Basel kept out of the record, 'Farowelle, it is done', 'I die through you', the secular judge who never passed sentence, the cross from the nearest church, and the executioner's fear. The burning itself is not described."
-  }
- ],
- "planned": [
+  },
   {
    "id": "nullity",
+   "datei": "nullity",
    "side": "reception",
    "kurz": "The sentence of nullity (7 July 1456)",
-   "warum": "The judges of 1456 declare the trial, the abjuration and the sentence of 1431 null, void and of no effect, and order the articles torn up.",
-   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. III (1845)."
+   "zk": "Null.",
+   "warum": "The sentence of the papal judges at Rouen, from Quicherat's third volume (1845), read against the page images, in Latin with a working translation: the suit of her mother and brothers, the refusal to judge her revelations ('more worthy of admiration than of condemnation'), the Twelve Articles torn up as 'corruptly, deceitfully, slanderously' extracted, the trial, the abjuration and the sentences declared 'null, invalid, void and empty', and a cross for the Old Market."
   }
  ],
- "missing": []
+ "planned": [],
+ "missing": [
+  {
+   "id": "burning",
+   "side": "reception",
+   "kurz": "Descriptions of the burning",
+   "warum": "The friars of 1450 and 1456, the Journal of a Parisian bourgeois and several chroniclers describe her death in detail, and what the executioner said afterwards. This site carries her words, the procedure and the men who carried it out, and the sentence's own phrase, 'cruel and horrible burning'; it does not carry the descriptions. Where an excerpt reaches one, the cut is marked and explained. Not carried by choice.",
+   "quelle": "Quicherat II, pp. 6–7, and III; Quicherat IV (chronicles)."
+  },
+  {
+   "id": "letter-henry",
+   "side": "england",
+   "kurz": "The English government's letter on her death (June 1431)",
+   "warum": "The letters in the name of Henry VI to the emperor, the kings and princes of Christendom and to the prelates of France, justifying the sentence, survive and are printed by Quicherat; Monstrelet copies one in place of an account of the trial. The court's own sentence is carried instead (Ouen Sentence [1]). Not carried by choice; a candidate for a later stage.",
+   "quelle": "Quicherat I (1841), pp. 485–492; Monstrelet in Quicherat IV."
+  },
+  {
+   "id": "treatises",
+   "side": "reception",
+   "kurz": "The theologians' treatises, 1429 and 1452–1456",
+   "warum": "Jean Gerson's short treatise on the Maid (14 May 1429), probably his last writing, and the opinions written for the nullity trial argue the case at length; the sentence of nullity cites them as its grounds. They are long, learned and mostly untranslated. Not carried in stage 1; the first candidates for a second stage.",
+   "quelle": "Quicherat III (1845), pp. 298 ff. (Gerson first)."
+  },
+  {
+   "id": "chronicles",
+   "side": "france",
+   "kurz": "The French chroniclers after Orléans",
+   "warum": "Perceval de Cagny, Jean Chartier, the herald Berry and others follow her from Patay to Paris and Compiègne. Stage 1 carries the city of Orléans' Journal and the Burgundian Monstrelet, one for each side; the rest are left for a later stage. Not carried in stage 1.",
+   "quelle": "Quicherat IV (1847)."
+  },
+  {
+   "id": "modern-translations",
+   "side": "reception",
+   "kurz": "Modern translations of the whole record",
+   "warum": "The complete English translation of the trial of condemnation by W. P. Barrett (1931) and the French of the later editions are, or may still be, in copyright. This site uses T. Douglas Murray's English of 1902 where it was checked against the Latin, and its own working translation elsewhere. A gap by necessity.",
+   "quelle": "W. P. Barrett, The Trial of Jeanne d'Arc (London 1931), in copyright."
+  }
+ ]
 }

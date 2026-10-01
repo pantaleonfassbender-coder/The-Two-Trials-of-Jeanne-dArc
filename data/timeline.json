@@ -48,7 +48,7 @@
    "d": "18 June 1429",
    "side": "france",
    "titel": "Patay",
-   "text": "The English army is broken at Patay; Talbot is taken. (Modern accounts; module planned.)"
+   "text": "The English army is broken at Patay; Talbot is taken. (Modern accounts.)"
   },
   {
    "d": "17 July 1429",
@@ -79,7 +79,7 @@
    "d": "8 September 1429",
    "side": "england",
    "titel": "Paris",
-   "text": "The attack on Paris fails; Jeanne is wounded at the gate of Saint-Honoré. (Modern accounts; module planned.)"
+   "text": "The attack on Paris fails; Jeanne is wounded at the gate of Saint-Honoré. (Modern accounts.)"
   },
   {
    "d": "9 November 1429",
@@ -183,7 +183,7 @@
    "d": "21 September 1435",
    "side": "france",
    "titel": "Arras",
-   "text": "The duke of Burgundy makes peace with Charles VII. (Modern accounts; module planned.)"
+   "text": "The duke of Burgundy makes peace with Charles VII; Paris opens to the king in April 1436. (Modern accounts.)"
   },
   {
    "d": "10 November 1449",
@@ -213,7 +213,10 @@
    "d": "7 July 1456",
    "side": "reception",
    "titel": "Nullity",
-   "text": "The papal commissioners declare the trial of 1431 null, void and of no effect. (Modern accounts; module planned.)"
+   "text": "In the archbishop's palace at Rouen the papal judges declare the trial, the abjuration and the sentences of 1431 'null, invalid, void and empty', order the Twelve Articles torn up, and a cross set up in the Old Market.",
+   "cite": "#/text/nullity/nullity/4",
+   "citeLabel": "Null. [4]",
+   "plate": "jouvenel"
   }
  ]
 }

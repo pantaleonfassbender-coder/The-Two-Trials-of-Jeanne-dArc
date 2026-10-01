@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "The Two Trials of Jeanne d'Arc: A Documentary Apparatus, 1429–1456",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the two trials of Jeanne d&rsquo;Arc: the trial of condemnation at Rouen (1431) and the trial of nullity (1455&ndash;1456), with the years from Chinon (1429) between them. Its thesis: the court won its case, and England lost France. The judges of Rouen condemned Jeanne as a relapsed heretic and the English burned her on 30 May 1431; within twenty years the king she had crowned held Paris and Rouen, and on 7 July 1456 a second court declared the first trial, the abjuration and the sentences null.</p><p>Ten modules from public-domain editions, with the original (Latin, Middle French, German) beside a working English translation (CC0), every excerpt read against the page images: the interrogations at Rouen, in Latin and in the surviving French minute, with T. Douglas Murray&rsquo;s English (1902) where checked; the promoter&rsquo;s charges, three of the Twelve Articles and the verdicts of the doctors at Rouen and of the University of Paris; the abjuration at Saint-Ouen, the relapse and the sentence (all from J. Quicherat, <em>Proc&egrave;s de condamnation et de r&eacute;habilitation</em>, vol. I, 1841); five of Jeanne&rsquo;s letters, among them the summons to the English and the letter to the Hussites, and twenty stanzas of Christine de Pizan&rsquo;s <em>Diti&eacute; de Jehanne d&rsquo;Arc</em> (vol. V, 1849); the <em>Journal du si&egrave;ge d&rsquo;Orl&eacute;ans</em> and Enguerrand de Monstrelet&rsquo;s Burgundian chronicle (vol. IV, 1847); the friars Isambart de la Pierre and Martin Ladvenu before the inquiry of 1450, six witnesses of 1456 (Hauviette, Jean de Metz, Dunois, Marguerite La Touroulde, Guillaume Manchon, Jean Massieu), and the sentence of nullity (vols. II&ndash;III, 1844&ndash;1845). With a timeline linked into the texts, a Compare page of nine pairs, and twelve public-domain plates.</p><p>What is not carried is listed with reasons: descriptions of the burning (by choice; where an excerpt reaches one, the cut is marked), the English government&rsquo;s letters on her death, the theologians&rsquo; treatises of 1429 and 1452&ndash;1456, the French chroniclers after Orl&eacute;ans, and modern translations of the whole record (in copyright). Companion game: <em>En nom Dieu</em> (https://en-nom-dieu.netlify.app/).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions, working translations and derived data CC0 1.0 &mdash; see LICENSES.md. Live site: https://the-two-trials.netlify.app/</p>",
+  "license": "MIT",
+  "keywords": [
+    "Jeanne d'Arc",
+    "Joan of Arc",
+    "trial of condemnation",
+    "trial of nullity",
+    "Rouen 1431",
+    "Hundred Years War",
+    "Pierre Cauchon",
+    "Christine de Pizan",
+    "Jules Quicherat",
+    "digital humanities"
+  ]
+}

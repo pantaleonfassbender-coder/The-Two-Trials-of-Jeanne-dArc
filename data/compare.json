@@ -111,6 +111,28 @@
    ]
   },
   {
+   "id": "torn",
+   "titel": "What became of the Twelve Articles?",
+   "frage": "The first of the articles sent to the University of Paris in April 1431, and the sentence of 1456 on all twelve.",
+   "note": "The articles turned her answers into propositions about 'a certain woman' and were the document on which Paris and the consultors condemned her. The court of 1456 declared them corruptly and slanderously extracted, the truth kept silent and falsehood stated, aggravating circumstances added and justifying ones left out, and had a copy torn up in court.",
+   "voices": [
+    {
+     "text": "articles",
+     "sec": "twelve",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "nullity",
+     "sec": "nullity",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
    "id": "fire",
    "titel": "What did the abjuration mean?",
    "frage": "The schedule she signed on 24 May, and what she said of it four days later.",

@@ -1,6 +1,6 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), three miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library), the armorial of the Berry herald (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and pages of Quicherat's edition (1841–1849); public-domain reproductions via Wikimedia Commons, resized for this site.",
- "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales); three miniatures from Martial d'Auvergne's Vigiles de Charles VII and the armorial of the Berry herald (Bibliothèque nationale de France); a miniature from Christine de Pizan's own manuscript (British Library); the votive panel of the Jouvenel des Ursins family (Musée de Cluny); Jeanne's signature on a letter of 1430 and her letter to Riom in a facsimile of 1911; and pages of Quicherat's edition (1841–1849). Public-domain reproductions via Wikimedia Commons and the Internet Archive, resized for this site.",
+ "lede": "The only image made in her lifetime, by a clerk who never saw her; the people around her as their own age painted them, Christine, Dunois, the family of the judge of 1456; the images of the generation after the nullity trial; her name in her own hand; and pages of the edition this site reads. There is no picture of her death. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
    "id": "fauquembergue",
@@ -78,6 +78,13 @@
    "titel": "The Bastard of Orléans",
    "caption": "Jean, count of Dunois, on horseback with the arms of Orléans crossed by the bastard's bend, in the armorial of Gilles le Bouvier, Berry herald of Charles VII; the inscription calls him 'conte de Dunois, bastard d'Orléans, lieutenant general'. In 1456 he was the first witness heard at Orléans, and remembered her first words to him: 'En nom Dieu, the counsel of God our Lord is safer and wiser than yours' (Wit. 1429 [1]).",
    "source": "Gilles le Bouvier, Armorial, Paris, Bibliothèque nationale de France, ms. fr. 4985, fol. 18v, 15th century; Gallica btv1b85285803/f44, via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "jouvenel",
+   "side": "reception",
+   "titel": "The family of the judge",
+   "caption": "Jean Jouvenel des Ursins, who had followed Charles VII into exile in 1418 and presided over his Parlement at Poitiers, kneels in prayer with his wife and their children, about 1445–1449. One of the sons, Jean, was bishop of Beauvais after Cauchon and archbishop of Reims from 1449; as such he presided over the court that declared the first trial null (Null. [1]).",
+   "source": "Anonymous, The Jouvenel des Ursins family, c. 1445–1449, from the chapel of Saint-Remi in Notre-Dame de Paris; Paris, Musée de Cluny (Louvre RF 9618); photograph via Wikimedia Commons (public domain)."
   }
  ]
 }
