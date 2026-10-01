@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>Who undid the verdict, and why?</h3>
       <p>The king she had crowned did nothing for her in 1431. In 1450, with Rouen retaken, he had an inquiry opened; in 1455 the pope commissioned a nullity trial at the request of her mother and brothers; on 7 July 1456 the first trial was declared null. It cleared her name, and his crown.</p></div>
     <div class="panel"><h3>Can the story be played?</h3>
-      <p>A companion game, <a href="https://en-nom-dieu.netlify.app/"><em>En nom Dieu</em></a>, is in preparation: as Jeanne, from Chinon to Rouen, and as the judge, Pierre Cauchon. An abjuration will not guarantee her life. Its cards will cite the passages carried here.</p></div>
+      <p>A companion game, <a href="https://en-nom-dieu.netlify.app/"><em>En nom Dieu</em></a>, is playable as Jeanne, from Chinon to Rouen (prototype 0); the second role, the judge Pierre Cauchon, is planned. An abjuration does not guarantee her life. Every card cites a passage carried here.</p></div>
   </div>`;
 }
 
