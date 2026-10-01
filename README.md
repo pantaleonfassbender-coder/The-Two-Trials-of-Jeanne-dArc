@@ -1,5 +1,7 @@
 # The Two Trials of Jeanne d'Arc
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23091412.svg)](https://doi.org/10.5281/zenodo.23091412)
+
 A documentary apparatus for the two trials of Jeanne d'Arc: the trial of condemnation at Rouen (1431) and the trial of nullity (1455–1456), with the years from Chinon (1429) between them. Public-domain sources with the original (Latin, Middle French) beside an English translation, a timeline linked into the texts, a Compare page, twelve plates, and a list of what is not carried and why.
 
 Its thesis, to be tested against the texts: the court won its case, and England lost France. The judges of Rouen condemned Jeanne as a relapsed heretic and the English burned her; within twenty years the king she had crowned held Paris and Rouen, and in 1456 a second court declared the first trial null.
@@ -24,6 +26,10 @@ Not carried, with reasons (see the Texts page): descriptions of the burning (by 
 Main editions: Jules Quicherat, *Procès de condamnation et de réhabilitation de Jeanne d'Arc* (5 vols., Paris 1841–1849); Pierre Champion, *Procès de condamnation* (Paris 1920–1921); T. Douglas Murray, *Jeanne d'Arc, Maid of Orleans* (London 1902). All in the public domain.
 
 The companion game *En nom Dieu* takes its title from Jeanne's own formula.
+
+## Citation
+
+Fassbender, Pantaleon. *The Two Trials of Jeanne d'Arc: A Documentary Apparatus, 1429–1456.* 2026. https://doi.org/10.5281/zenodo.23091412 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23091413). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 ## Building the data
 

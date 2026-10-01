@@ -33,5 +33,13 @@ keywords:
   - Christine de Pizan
   - digital humanities
 license: MIT
+doi: 10.5281/zenodo.23091412
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23091412
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23091413
+    description: "Version 1.0.0"
 version: 1.0.0
 date-released: 2026-10-01
