@@ -153,6 +153,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "sentence",
+   "titel": "Who sentenced her to death?",
+   "frage": "The church's sentence of 30 May 1431, and her confessor's account of what followed it.",
+   "note": "The church court declares her a relapsed heretic, casts her out 'as a rotten limb' and leaves her to the secular power, asking it to temper its sentence. By Ladvenu's account the secular judges sat on their platform and passed no sentence at all: two sergeants led her down and handed her to the executioner. Isambart remembers only the words 'Do your duty.' Each court left the death to the other; the nullity trial counted it among the faults of the first.",
+   "voices": [
+    {
+     "text": "saintouen",
+     "sec": "sentence",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "end",
+     "sec": "ladvenu",
+     "n": [
+      3
+     ]
+    }
+   ]
   }
  ]
 }

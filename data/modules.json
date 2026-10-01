@@ -63,16 +63,17 @@
    "kurz": "The witnesses of the nullity trial (1456)",
    "zk": "Wit.",
    "warum": "Six depositions from Quicherat's second and third volumes (1844–1845), read against the page images, in the Latin of the record with a working translation: her friend Hauviette on the fairies' tree and her tears, Jean de Metz on Vaucouleurs ('even if I wear my feet down to the knees'), Dunois on 'En nom Dieu' and the wind on the Loire, Marguerite La Touroulde on the rosaries, the notary Manchon on the English secretaries and the bishop's 'fine trial', and the usher Massieu on the schedule of 'about eight lines'."
+  },
+  {
+   "id": "end",
+   "datei": "end",
+   "side": "reception",
+   "kurz": "The end, as two friars remembered it (1450)",
+   "zk": "End",
+   "warum": "Isambart de la Pierre and Martin Ladvenu before the first royal inquiry of March 1450, from Quicherat's second volume (1844), read against the page images, in French with a working translation: the appeal to the council of Basel kept out of the record, 'Farowelle, it is done', 'I die through you', the secular judge who never passed sentence, the cross from the nearest church, and the executioner's fear. The burning itself is not described."
   }
  ],
  "planned": [
-  {
-   "id": "end",
-   "side": "reception",
-   "kurz": "The end, as two friars remembered it",
-   "warum": "Isambart de la Pierre and Martin Ladvenu on the last day, told in 1450–1456; carried with restraint.",
-   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vols. II–III (1844–1845)."
-  },
   {
    "id": "nullity",
    "side": "reception",

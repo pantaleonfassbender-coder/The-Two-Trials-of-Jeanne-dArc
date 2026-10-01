@@ -189,7 +189,16 @@
    "d": "10 November 1449",
    "side": "france",
    "titel": "Rouen retaken",
-   "text": "Charles VII enters Rouen; the next year he orders an inquiry into the trial. (Modern accounts; module planned.)"
+   "text": "Charles VII enters Rouen. Early in 1450 he commissions Guillaume Bouillé to inquire into the trial. (Modern accounts.)"
+  },
+  {
+   "d": "5 March 1450",
+   "side": "reception",
+   "titel": "The first inquiry",
+   "text": "Before Bouillé at Rouen, the friars Isambart de la Pierre and Martin Ladvenu, who were with her at the end, testify that the bishop silenced her appeal to the council of Basel, that she said 'I die through you', and that no secular judge ever sentenced her.",
+   "cite": "#/text/end/ladvenu/2",
+   "citeLabel": "End Ladvenu [2]",
+   "plate": "croix"
   },
   {
    "d": "January–May 1456",

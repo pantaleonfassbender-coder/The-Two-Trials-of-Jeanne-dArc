@@ -1,5 +1,5 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), three miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library), the armorial of the Berry herald (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), three miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library), the armorial of the Berry herald (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and pages of Quicherat's edition (1841–1849); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
@@ -64,6 +64,13 @@
    "titel": "'Jehanne ✠'",
    "caption": "The end of the French abjuration in Quicherat's edition, with the record's note of how it was signed: 'Jehanne' and a cross. In her letters of 1430 a cross could mean, she had told the judges, that the opposite of what was written should be done (Art. Twelve, article VI, not carried here). What she signed at Saint-Ouen, and how, were questions for the witnesses of the nullity trial (Ouen Abjuration [2]).",
    "source": "J. Quicherat, Procès de condamnation, vol. I (Paris 1841), p. 448; Internet Archive, procsdecondam01joanuoft (public domain)."
+  },
+  {
+   "id": "croix",
+   "side": "reception",
+   "titel": "'Fais ton devoir'",
+   "caption": "The page of Quicherat's edition with Isambart de la Pierre's deposition of March 1450: the secular judge who passed no sentence, 'Do your duty', and her request that he fetch the cross from the nearest church and hold it before her eyes. This site carries no picture of her death (End Isambart [3]–[4]).",
+   "source": "J. Quicherat, Procès de condamnation et de réhabilitation, vol. II (Paris 1844), p. 6; Internet Archive, procsdecondam02joanuoft (public domain)."
   },
   {
    "id": "dunois",
