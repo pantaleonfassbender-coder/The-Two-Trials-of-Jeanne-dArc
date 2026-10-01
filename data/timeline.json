@@ -17,11 +17,30 @@
    "citeLabel": "Letters [1]"
   },
   {
+   "d": "29 April 1429",
+   "side": "jeanne",
+   "titel": "Into Orléans",
+   "text": "After dark, with the supply convoy brought in, Jeanne rides into the besieged city on a white horse beside the Bastard of Orléans, met with torches 'as if they saw God come down among them'.",
+   "cite": "#/text/orleans/arrival/2",
+   "citeLabel": "Orl. Arrival [2]"
+  },
+  {
+   "d": "7 May 1429",
+   "side": "france",
+   "titel": "The Tourelles",
+   "text": "Wounded by an arrow between shoulder and throat, she sends the captains back to the assault 'in God's name'; the Tourelles fall, and Glasdale and several hundred of his men are killed or drowned when the bridge, set on fire from below, gives way.",
+   "cite": "#/text/orleans/tourelles/2",
+   "citeLabel": "Orl. Tourelles [2]",
+   "plate": "tourelles"
+  },
+  {
    "d": "8 May 1429",
    "side": "france",
    "titel": "Orléans",
-   "text": "The English raise the siege of Orléans after the fall of the Tourelles. (Modern accounts; module planned.)",
-   "plate": "fauquembergue"
+   "text": "On a Sunday the English abandon their bastilles and draw up in battle; she forbids the French to attack on the holy day, and after an hour the English march off to Meung. The siege had lasted since 12 October 1428.",
+   "plate": "fauquembergue",
+   "cite": "#/text/orleans/tourelles/3",
+   "citeLabel": "Orl. Tourelles [3]"
   },
   {
    "d": "18 June 1429",

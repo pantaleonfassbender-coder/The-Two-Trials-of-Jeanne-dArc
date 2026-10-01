@@ -31,16 +31,17 @@
    "kurz": "Jeanne's letters (1429–1430)",
    "zk": "Letters",
    "warum": "From Quicherat's fifth volume (1849), read against the page images, with a working translation: the summons to the English before Orléans ('I am a chief of war'), the plea to the duke of Burgundy on the coronation day, her discontent with the truces in a letter to Reims, a request for powder and saltpetre to Riom with her signature, and the threatening letter to the Hussites of Bohemia, in the German version Quicherat printed."
+  },
+  {
+   "id": "orleans",
+   "datei": "orleans",
+   "side": "france",
+   "kurz": "The Journal of the siege of Orléans (March–May 1429)",
+   "zk": "Orl.",
+   "warum": "The city's own book, put together about 1467 from a register kept during the siege, from Quicherat's fourth volume (1847), read against the page images, with a working translation: the English answer to her letter ('whore', 'cowgirl', the threat of fire), her entry by torchlight 'as if they saw God come down among them', the Bastard's threat to kill the prisoners, the arrow at the Tourelles and 'En nom de Dieu', the bridge that 'gave way' (Quicherat: it was burned on purpose), and the Sunday on which she forbade the French to attack."
   }
  ],
  "planned": [
-  {
-   "id": "orleans",
-   "side": "france",
-   "kurz": "The Journal of the siege of Orléans",
-   "warum": "The city's own account of the siege and its raising, from the arrival of the Maid to 8 May 1429.",
-   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. IV (1847)."
-  },
   {
    "id": "christine",
    "side": "france",

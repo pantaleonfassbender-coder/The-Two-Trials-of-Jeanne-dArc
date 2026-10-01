@@ -23,6 +23,28 @@
    ]
   },
   {
+   "id": "answer",
+   "titel": "How was her letter answered?",
+   "frage": "The summons she dictated in March 1429, and what the city's Journal says the English did with it.",
+   "note": "The letter offers the English peace if they leave France and promises them, if they do not, 'a tumult such as there has not been in France for a thousand years'. By the Journal's account the captains kept her herald, called her whore and cowgirl, and threatened to burn her; a month later they repeated the threat from the Tourelles. The Journal was compiled after Rouen, and its readers knew the end.",
+   "voices": [
+    {
+     "text": "letters",
+     "sec": "letters",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "orleans",
+     "sec": "arrival",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
    "id": "church",
    "titel": "What did she say about the Church?",
    "frage": "Her answer in the prison session of 17 March 1431, and the twelfth article the judges drew from it.",

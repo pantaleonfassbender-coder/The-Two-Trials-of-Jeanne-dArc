@@ -1,5 +1,5 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), a miniature from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), two miniatures from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
@@ -8,6 +8,13 @@
    "titel": "The clerk of the Parlement draws the Maid",
    "caption": "In the margin of the Parlement of Paris's register, against the entry for Tuesday 10 May 1429 that reports the fighting at Orléans, the clerk Clément de Fauquembergue drew a girl with long hair, a sword and a banner. He had never seen her; it is the only image made in her lifetime, by a man in English-held Paris who knew her only from report.",
    "source": "Paris, Archives nationales, X1a 1481, fol. 12r (detail), 10 May 1429; via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "tourelles",
+   "side": "france",
+   "titel": "'Par leur pont qui fondit en Loire'",
+   "caption": "The taking of the Tourelles in Martial d'Auvergne's verse chronicle of Charles VII's reign, c. 1484: 'How the French raised the siege valiantly and entered Orléans'. The verses below say that many English were killed in the assault 'and the others were drowned by their bridge, which gave way into the Loire': the same account as the city's Journal, which Quicherat corrected from the town accounts (Orl. Tourelles [2]).",
+   "source": "Martial d'Auvergne, Les Vigiles de Charles VII, Paris, Bibliothèque nationale de France, ms. fr. 5054, fol. 57v, c. 1484; Gallica btv1b105380390/f126, via Wikimedia Commons (public domain)."
   },
   {
    "id": "chinon",
