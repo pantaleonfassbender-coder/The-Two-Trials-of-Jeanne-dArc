@@ -1,5 +1,5 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), two miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library) (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), three miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library) (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
@@ -43,6 +43,13 @@
    "titel": "To the people of Riom",
    "caption": "The letter of 9 November 1429 asking Riom for powder, saltpetre, sulphur, arrows and crossbows for the siege of La Charité, written by a clerk and signed 'Jehanne' below. Quicherat, who held the original, thought the cramped letters of the signature showed a guided hand (Letters [4]).",
    "source": "Moulins, 9 November 1429, Archives municipales de Riom; facsimile in C. de Maleissye, Les Lettres de Jehanne d'Arc (Paris 1911); via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "compiegne",
+   "side": "england",
+   "titel": "'Et vendue aux Angloys'",
+   "caption": "The capture before Compiègne in Martial d'Auvergne's verse chronicle, c. 1484. The rubric reads 'How the Maid was taken before Compiègne and sold to the English'; the verses below say that the Picard who took her handed her to Luxembourg, 'who sold her and handed her on to the English for ready money'. That is the sentence missing from Monstrelet, Luxembourg's own chronicler (Mon. [4]).",
+   "source": "Martial d'Auvergne, Les Vigiles de Charles VII, Paris, Bibliothèque nationale de France, ms. fr. 5054, fol. 70r, c. 1484; Gallica btv1b105380390/f151, via Wikimedia Commons (public domain)."
   },
   {
    "id": "articles",

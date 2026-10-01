@@ -64,7 +64,7 @@
    "id": "prison",
    "zk": "Interr. Prison",
    "titel": "In her prison, March 1431",
-   "blurb": "The sessions held in her cell before a few assessors, where the French minute survives: the Church Militant and the Church Triumphant, whether God hates the English, and the standard at Reims.",
+   "blurb": "The sessions held in her cell before a few assessors, where the French minute survives: the Church Militant and the Church Triumphant, whether God hates the English, the standard at Reims, and the death of Franquet d'Arras.",
    "units": [
     {
      "n": 1,
@@ -92,6 +92,15 @@
      "en": "Asked whether anyone had made her standard float or turn about her king's head: she answers no, not that she knows. Asked why it was carried into the church of Reims at the coronation more than those of the other captains, she answers: 'It had been in the labour; it was very right that it should be in the honour.'",
      "lang": "fr",
      "note": "17 March, afternoon. The standard was the evidence for the charge of superstition: had she put a spell on it? Quicherat notes that 'coste' should be read 'teste', head. The answer is perhaps the most quoted line of the trial. Murray's English omits the passage; working translation. The Latin of the record (p. 187) has 'in pœna ... honorem'."
+    },
+    {
+     "n": 4,
+     "pg": "158",
+     "titel": "Franquet d'Arras",
+     "orig": "Interroguée, se de prendre ung homme à raençon, et le faire mourir prisonnier, ce c'est point péchié mortel : respond qu'elle ne l'a point fait. Et pour ce que on lui parloit d'un nommé Franquet d'Arras, que on fist mourir à Laigny : respond qu'elle fut consentante de luy de le faire mourir, se il l'avoit deservi, pour ce que il confessa estre murdrier, larron et traictre. Et dit que son procès dura xv jours, et en fut juge le baillif de Senlis, et ceulx de la justice de Laigny. Et dit qu'elle requéroit avoir Franquet pour ung homme de Paris, seigneur de Lours ; et quant elle sceut que le seigneur fut mort, et que le baillif luy dist qu'elle vouloit faire grant tort à la justice, de delivrer celluy Franquet, lors dit celle au baillif : « Puis que mon homme est mort, que je vouloye avoir, faictes de icelluy ce que debvroyés faire par justice. »",
+     "en": "\"To take a man at ransom, and to put him to death, while a prisoner, is not that mortal sin?\" \"I never did it.\" \"What did you do to Franquet d'Arras, who was put to death, at Lagny?\" \"I consented that he should die if he had merited it, because he had confessed to being a murderer, thief, and traitor; his trial lasted fifteen days; he had for Judge the Bailly of Senlis and the people of the Court at Lagny. I had given orders to exchange this Franquet against a man of Paris, landlord of the Hôtel de l'Ours. When I learnt the death of the latter, and the Bailly told me that I should do great wrong to justice by giving up Franquet, I said to the Bailly, 'As my man is dead, do with the other what you should do, for justice.'\"",
+     "lang": "fr",
+     "note": "Wednesday 14 March 1431, afternoon, in her prison. The French minute; the Latin record on the same page agrees. Quicherat notes that the clerk who wrote 'seigneur de Lours' misheard: the man was the innkeeper at the sign of the Bear in Paris. Franquet was a captain of Burgundian freebooters whom she had taken in early May 1430; the Burgundian chronicler says only that she 'had his head cut off' (Mon. [2]). Straight after, the judges listed it among five deeds (the attack on Paris on a feast day, the bishop of Senlis's horse, the leap from Beaurevoir, the man's dress) and asked whether she did not think she had committed mortal sin. Murray, p. 78, who turns the reported speech of the record into dialogue."
     }
    ]
   }
