@@ -1,0 +1,101 @@
+{
+ "lede": "From Chinon to the sentence of nullity. Each station names the passage it rests on; where none is carried yet, it says so.",
+ "stations": [
+  {
+   "d": "March 1429",
+   "side": "jeanne",
+   "titel": "Chinon",
+   "text": "Jeanne, from Domrémy on the borders of Lorraine, comes to the court of Charles VII at Chinon and is examined by churchmen at Poitiers. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "22 March 1429",
+   "side": "jeanne",
+   "titel": "The letter to the English",
+   "text": "Jeanne summons the English before Orléans to give up the keys of the towns they have taken in France. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "8 May 1429",
+   "side": "france",
+   "titel": "Orléans",
+   "text": "The English raise the siege of Orléans after the fall of the Tourelles. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "18 June 1429",
+   "side": "france",
+   "titel": "Patay",
+   "text": "The English army is broken at Patay; Talbot is taken. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "17 July 1429",
+   "side": "france",
+   "titel": "Reims",
+   "text": "Charles VII is crowned at Reims with Jeanne beside him; the same day she writes to the duke of Burgundy. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "8 September 1429",
+   "side": "england",
+   "titel": "Paris",
+   "text": "The attack on Paris fails; Jeanne is wounded at the gate of Saint-Honoré. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "23 March 1430",
+   "side": "jeanne",
+   "titel": "A letter to the Hussites",
+   "text": "A Latin letter in Jeanne's name threatens the heretics of Bohemia. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "23 May 1430",
+   "side": "england",
+   "titel": "Compiègne",
+   "text": "In a sortie from Compiègne Jeanne is taken by the men of the Bastard of Wandonne, of the duke of Burgundy's party. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "Late 1430",
+   "side": "england",
+   "titel": "Sold to the English",
+   "text": "The Luxembourg captor gives her up to the English for ten thousand livres; she is taken to Rouen. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "9 January 1431",
+   "side": "court",
+   "titel": "The trial opens",
+   "text": "Pierre Cauchon, bishop of Beauvais, opens the proceedings at Rouen; the public sessions begin on 21 February. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "24 May 1431",
+   "side": "court",
+   "titel": "Saint-Ouen",
+   "text": "Before a sermon and the executioner's cart, Jeanne puts her mark to an abjuration and is sentenced to prison for life. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "28 May 1431",
+   "side": "court",
+   "titel": "Relapse",
+   "text": "Found again in men's clothes, she is examined and declared relapsed. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "30 May 1431",
+   "side": "court",
+   "titel": "Rouen",
+   "text": "Jeanne is handed to the secular arm and burned in the Old Market of Rouen. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "21 September 1435",
+   "side": "france",
+   "titel": "Arras",
+   "text": "The duke of Burgundy makes peace with Charles VII. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "10 November 1449",
+   "side": "france",
+   "titel": "Rouen retaken",
+   "text": "Charles VII enters Rouen; the next year he orders an inquiry into the trial. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "7 July 1456",
+   "side": "reception",
+   "titel": "Nullity",
+   "text": "The papal commissioners declare the trial of 1431 null, void and of no effect. (Modern accounts; module planned.)"
+  }
+ ]
+}

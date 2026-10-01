@@ -1,0 +1,76 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "interrogations",
+   "side": "court",
+   "kurz": "The interrogations at Rouen (February–March 1431)",
+   "warum": "The record of the public and private examinations: her voices, her sign to the king, men's clothing, submission to the Church Militant, and the answer on God's grace.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. I (1841); P. Champion, Procès de condamnation (1920); English T. D. Murray (1902)."
+  },
+  {
+   "id": "articles",
+   "side": "court",
+   "kurz": "The Twelve Articles and the University of Paris",
+   "warum": "The seventy articles reduced to twelve, and the verdict of the faculties of theology and decrees: superstitious, schismatic, apostate, heretical.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. I (1841)."
+  },
+  {
+   "id": "saintouen",
+   "side": "court",
+   "kurz": "Saint-Ouen: abjuration, relapse and sentence (24–30 May 1431)",
+   "warum": "The abjuration in the cemetery of Saint-Ouen, the sentence to perpetual prison, the return to men's clothing, the examination of 28 May and the final sentence.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. I (1841); English T. D. Murray (1902)."
+  },
+  {
+   "id": "letters",
+   "side": "jeanne",
+   "kurz": "Jeanne's letters (1429–1430)",
+   "warum": "To the English before Orléans, to the duke of Burgundy on the day of the coronation, to the people of Reims and Riom, and the Latin letter to the Hussites in her name.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vols. I and V (1841–1849)."
+  },
+  {
+   "id": "orleans",
+   "side": "france",
+   "kurz": "The Journal of the siege of Orléans",
+   "warum": "The city's own account of the siege and its raising, from the arrival of the Maid to 8 May 1429.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. IV (1847)."
+  },
+  {
+   "id": "christine",
+   "side": "france",
+   "kurz": "Christine de Pizan, Ditié de Jehanne d'Arc (31 July 1429)",
+   "warum": "The only poem written in her lifetime, by the most famous woman writer of the age, a fortnight after the coronation.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. V (1849)."
+  },
+  {
+   "id": "monstrelet",
+   "side": "england",
+   "kurz": "The Burgundian chronicler: Monstrelet on Compiègne",
+   "warum": "Enguerrand de Monstrelet, who was with the duke of Burgundy when Jeanne was brought in after her capture on 23 May 1430.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. IV (1847)."
+  },
+  {
+   "id": "witnesses",
+   "side": "reception",
+   "kurz": "The witnesses of the nullity trial (1455–1456)",
+   "warum": "Domrémy and Vaucouleurs, Dunois, Jean d'Aulon, Jean Pasquerel, and the assessors of Rouen, twenty-five years later.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vols. II–III (1844–1845); English T. D. Murray (1902)."
+  },
+  {
+   "id": "end",
+   "side": "reception",
+   "kurz": "The end, as two friars remembered it",
+   "warum": "Isambart de la Pierre and Martin Ladvenu on the last day, told in 1450–1456; carried with restraint.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vols. II–III (1844–1845)."
+  },
+  {
+   "id": "nullity",
+   "side": "reception",
+   "kurz": "The sentence of nullity (7 July 1456)",
+   "warum": "The judges of 1456 declare the trial, the abjuration and the sentence of 1431 null, void and of no effect, and order the articles torn up.",
+   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. III (1845)."
+  }
+ ],
+ "missing": []
+}
