@@ -21,6 +21,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "fire",
+   "titel": "What did the abjuration mean?",
+   "frage": "The schedule she signed on 24 May, and what she said of it four days later.",
+   "note": "The schedule confesses that she 'feigned' her revelations, wore indecent clothing, desired bloodshed and was schismatic, and promises never to return to these errors; it is signed 'Jehanne' with a cross. On 28 May she says she never meant to revoke her voices, that she did not understand what was in the schedule, and that what she said she said for fear of the fire. The court read the second statement as relapse; the court of 1456 asked what she had been given to sign.",
+   "voices": [
+    {
+     "text": "saintouen",
+     "sec": "abjuration",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "saintouen",
+     "sec": "relapse",
+     "n": [
+      2
+     ]
+    }
+   ]
   }
  ]
 }

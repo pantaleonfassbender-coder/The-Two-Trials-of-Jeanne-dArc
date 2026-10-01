@@ -94,19 +94,26 @@
    "d": "24 May 1431",
    "side": "court",
    "titel": "Saint-Ouen",
-   "text": "Before a sermon and the executioner's cart, Jeanne puts her mark to an abjuration and is sentenced to prison for life. (Modern accounts; module planned.)"
+   "text": "In the cemetery of Saint-Ouen, after a sermon and with the sentence half read, Jeanne submits, abjures in French and signs with a cross; she is sentenced to perpetual prison 'with the bread of sorrow and the water of affliction', and puts on women's clothes the same afternoon.",
+   "cite": "#/text/saintouen/abjuration/2",
+   "citeLabel": "Ouen Abjuration [2]",
+   "plate": "cedula"
   },
   {
    "d": "28 May 1431",
    "side": "court",
    "titel": "Relapse",
-   "text": "Found again in men's clothes, she is examined and declared relapsed. (Modern accounts; module planned.)"
+   "text": "Found again in men's clothes, she says the promises made to her were not kept, that her voices told her she had damned herself to save her life, and that what she said at Saint-Ouen she said for fear of the fire.",
+   "cite": "#/text/saintouen/relapse/2",
+   "citeLabel": "Ouen Relapse [2]"
   },
   {
    "d": "30 May 1431",
    "side": "court",
    "titel": "Rouen",
-   "text": "Jeanne is handed to the secular arm and burned in the Old Market of Rouen. (Modern accounts; module planned.)"
+   "text": "In the Old Market of Rouen she is declared relapsed and heretic, cast out 'as a rotten limb' and left to the secular power, and burned the same day.",
+   "cite": "#/text/saintouen/sentence/1",
+   "citeLabel": "Ouen Sentence [1]"
   },
   {
    "d": "21 September 1435",

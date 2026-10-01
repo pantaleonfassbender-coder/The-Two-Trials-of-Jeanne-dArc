@@ -15,16 +15,17 @@
    "kurz": "The Twelve Articles and the University of Paris",
    "zk": "Art.",
    "warum": "From Quicherat's edition (1841), read against the page images, with a working translation: the promoter's list of what she should be declared, three of the Twelve Articles about 'a certain woman' (the voices and the fairies' tree, the dress of a man, no man in the world but God), and the verdicts of the doctors at Rouen and of the faculties of theology and decrees of Paris: 'Belial, Satan and Behemoth', schism and apostasy."
+  },
+  {
+   "id": "saintouen",
+   "datei": "saintouen",
+   "side": "court",
+   "kurz": "Saint-Ouen: abjuration, relapse and sentence (24–30 May 1431)",
+   "zk": "Ouen",
+   "warum": "From Quicherat's edition (1841), read against the page images, in the French minute and the Latin record with a working translation: her appeal to the pope refused at Saint-Ouen, the abjuration signed with a mark, perpetual prison 'with the bread of sorrow', the women's clothes, the relapse of 28 May ('for fear of the fire'), and the sentence of 30 May: 'as a rotten limb'."
   }
  ],
  "planned": [
-  {
-   "id": "saintouen",
-   "side": "court",
-   "kurz": "Saint-Ouen: abjuration, relapse and sentence (24–30 May 1431)",
-   "warum": "The abjuration in the cemetery of Saint-Ouen, the sentence to perpetual prison, the return to men's clothing, the examination of 28 May and the final sentence.",
-   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. I (1841); English T. D. Murray (1902)."
-  },
   {
    "id": "letters",
    "side": "jeanne",
