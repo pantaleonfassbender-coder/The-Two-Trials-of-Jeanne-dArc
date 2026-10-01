@@ -4,7 +4,7 @@
 const view = document.getElementById("view");
 const D = { mods: null, plates: null, timeline: null, compare: null, texts: {} };
 const SIDES = { jeanne: "Jeanne and her party", court: "The judges of Rouen", england: "England and Burgundy", france: "Charles VII's France", reception: "Rehabilitation and memory" };
-const LANGS = { la: "Latin", fr: "Middle French", en: "English" };
+const LANGS = { la: "Latin", fr: "Middle French", de: "German", en: "English" };
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const side = s => `<span class="side ${s}">${esc(SIDES[s] || s)}</span>`;

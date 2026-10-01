@@ -23,16 +23,17 @@
    "kurz": "Saint-Ouen: abjuration, relapse and sentence (24–30 May 1431)",
    "zk": "Ouen",
    "warum": "From Quicherat's edition (1841), read against the page images, in the French minute and the Latin record with a working translation: her appeal to the pope refused at Saint-Ouen, the abjuration signed with a mark, perpetual prison 'with the bread of sorrow', the women's clothes, the relapse of 28 May ('for fear of the fire'), and the sentence of 30 May: 'as a rotten limb'."
+  },
+  {
+   "id": "letters",
+   "datei": "letters",
+   "side": "jeanne",
+   "kurz": "Jeanne's letters (1429–1430)",
+   "zk": "Letters",
+   "warum": "From Quicherat's fifth volume (1849), read against the page images, with a working translation: the summons to the English before Orléans ('I am a chief of war'), the plea to the duke of Burgundy on the coronation day, her discontent with the truces in a letter to Reims, a request for powder and saltpetre to Riom with her signature, and the threatening letter to the Hussites of Bohemia, in the German version Quicherat printed."
   }
  ],
  "planned": [
-  {
-   "id": "letters",
-   "side": "jeanne",
-   "kurz": "Jeanne's letters (1429–1430)",
-   "warum": "To the English before Orléans, to the duke of Burgundy on the day of the coronation, to the people of Reims and Riom, and the Latin letter to the Hussites in her name.",
-   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vols. I and V (1841–1849)."
-  },
   {
    "id": "orleans",
    "side": "france",

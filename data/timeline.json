@@ -12,7 +12,9 @@
    "d": "22 March 1429",
    "side": "jeanne",
    "titel": "The letter to the English",
-   "text": "Jeanne summons the English before Orléans to give up the keys of the towns they have taken in France. (Modern accounts; module planned.)"
+   "text": "At Poitiers, after her examination by the churchmen, Jeanne dictates a summons to the king of England, Bedford and the captains before Orléans: 'I am a chief of war.'",
+   "cite": "#/text/letters/letters/1",
+   "citeLabel": "Letters [1]"
   },
   {
    "d": "8 May 1429",
@@ -31,7 +33,17 @@
    "d": "17 July 1429",
    "side": "france",
    "titel": "Reims",
-   "text": "Charles VII is crowned at Reims with Jeanne beside him; the same day she writes to the duke of Burgundy. (Modern accounts; module planned.)"
+   "text": "Charles VII is crowned at Reims. The same day Jeanne writes to the duke of Burgundy, who had not answered her invitation to the coronation: make peace, and 'if it pleases you to make war, go against the Saracens'.",
+   "cite": "#/text/letters/letters/2",
+   "citeLabel": "Letters [2]"
+  },
+  {
+   "d": "5 August 1429",
+   "side": "jeanne",
+   "titel": "Truce with Burgundy",
+   "text": "On the road to Paris she writes to Reims that the king has made a fortnight's truce with Burgundy, and that she is 'not content' with it and does not know if she will keep it.",
+   "cite": "#/text/letters/letters/3",
+   "citeLabel": "Letters [3]"
   },
   {
    "d": "8 September 1429",
@@ -40,10 +52,21 @@
    "text": "The attack on Paris fails; Jeanne is wounded at the gate of Saint-Honoré. (Modern accounts; module planned.)"
   },
   {
-   "d": "23 March 1430",
+   "d": "9 November 1429",
+   "side": "jeanne",
+   "titel": "Powder for La Charité",
+   "text": "After the taking of Saint-Pierre-le-Moûtier, a letter signed 'Jehanne' asks the town of Riom for powder, saltpetre, sulphur and crossbows; the siege of La Charité fails in December.",
+   "cite": "#/text/letters/letters/4",
+   "citeLabel": "Letters [4]",
+   "plate": "riom"
+  },
+  {
+   "d": "March 1430",
    "side": "jeanne",
    "titel": "A letter to the Hussites",
-   "text": "A Latin letter in Jeanne's name threatens the heretics of Bohemia. (Modern accounts; module planned.)"
+   "text": "A letter in Jeanne's name, composed by a clerk, threatens the heretics of Bohemia with the sword unless they return to the Church. Quicherat's German text is dated at Sully, 3 March; a Latin text found since, 23 March.",
+   "cite": "#/text/letters/letters/5",
+   "citeLabel": "Letters [5]"
   },
   {
    "d": "23 May 1430",

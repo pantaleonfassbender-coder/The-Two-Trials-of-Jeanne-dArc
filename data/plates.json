@@ -1,5 +1,5 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), a miniature from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), a miniature from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
@@ -22,6 +22,13 @@
    "titel": "'Jehanne'",
    "caption": "The name at the foot of her letter to the people of Reims, written from Sully on 16 March 1430. She could not write; the letters she sent were dictated, and she seems to have learned to sign her name in the last year of her freedom. At Rouen the abjuration of 24 May 1431 was signed, by the witnesses' account, with a cross or a mark.",
    "source": "Letter to the inhabitants of Reims, 16 March 1430, family archives of Maleissye (reproduction); via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "riom",
+   "side": "jeanne",
+   "titel": "To the people of Riom",
+   "caption": "The letter of 9 November 1429 asking Riom for powder, saltpetre, sulphur, arrows and crossbows for the siege of La Charité, written by a clerk and signed 'Jehanne' below. Quicherat, who held the original, thought the cramped letters of the signature showed a guided hand (Letters [4]).",
+   "source": "Moulins, 9 November 1429, Archives municipales de Riom; facsimile in C. de Maleissye, Les Lettres de Jehanne d'Arc (Paris 1911); via Wikimedia Commons (public domain)."
   },
   {
    "id": "articles",
