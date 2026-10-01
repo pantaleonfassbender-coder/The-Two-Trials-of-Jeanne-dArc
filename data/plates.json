@@ -1,5 +1,5 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), two miniatures from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), two miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library) (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
@@ -15,6 +15,13 @@
    "titel": "'Par leur pont qui fondit en Loire'",
    "caption": "The taking of the Tourelles in Martial d'Auvergne's verse chronicle of Charles VII's reign, c. 1484: 'How the French raised the siege valiantly and entered Orléans'. The verses below say that many English were killed in the assault 'and the others were drowned by their bridge, which gave way into the Loire': the same account as the city's Journal, which Quicherat corrected from the town accounts (Orl. Tourelles [2]).",
    "source": "Martial d'Auvergne, Les Vigiles de Charles VII, Paris, Bibliothèque nationale de France, ms. fr. 5054, fol. 57v, c. 1484; Gallica btv1b105380390/f126, via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "christine",
+   "side": "france",
+   "titel": "Christine and the queen",
+   "caption": "Christine de Pizan presents the collected volume of her works to Queen Isabeau of Bavaria, about 1410–1414, in the manuscript made in her own workshop. Isabeau was the mother of Charles VII; by the treaty of Troyes (1420) she and her husband disinherited him in favour of Henry V. Fifteen years after this picture, Christine greeted the son 'who fled from Paris' as king (Ditié [1]).",
+   "source": "Master of the Cité des Dames, Christine de Pizan, The Book of the Queen, London, British Library, Harley 4431, fol. 3r (detail), c. 1410–1414; via Wikimedia Commons (public domain)."
   },
   {
    "id": "chinon",

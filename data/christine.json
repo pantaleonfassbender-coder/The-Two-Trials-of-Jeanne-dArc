@@ -1,0 +1,82 @@
+{
+ "titel": "Christine de Pizan, Ditié de Jehanne d'Arc",
+ "autor": "Christine de Pizan (c. 1364 – c. 1430), in a convent since 1418",
+ "jahr": "31 July 1429",
+ "orig_sprache": "fr",
+ "pg_label": "Quicherat V p.",
+ "quelle": "J. Quicherat (ed.), Procès de condamnation et de réhabilitation de Jeanne d'Arc, dite la Pucelle, vol. V (Paris: Renouard, 1849), pp. 3–21, after A. Jubinal's edition (1838) of the Berne manuscript. Internet Archive, ProcesDeCondamnationV5. Public domain.",
+ "hinweis": "Twenty of the sixty-one stanzas, read against the page images, numbered as in Quicherat; his supplements in brackets are kept. The English is this site's working translation (CC0), line for line where the syntax allows.",
+ "sections": [
+  {
+   "id": "ditie",
+   "zk": "Ditié",
+   "titel": "Ditié de Jehanne d'Arc (31 July 1429)",
+   "blurb": "Seven passages from the sixty-one stanzas: Christine's joy after eleven years in a convent, the praise of 'Johanne', the honour to the female sex, the English dead in the furrows, the heretics and the Holy Land, the threat and the plea to Paris, and the date.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "4",
+     "titel": "'I, Christine, who have wept eleven years' (stanzas 1–3)",
+     "orig": "1.\nJe, Christine, qui ay plouré\nUnze ans en abbaye close,\nOù j'ay tousjours puis demouré\nQue Charles (c'est estrange chose !),\nLe filz du roy, se dire l'ose,\nS'en fouy de Paris, de tire,\nPar la traïson là enclose :\nOre à prime me prens à rire.\n\n2.\nA rire bonement de joie\nMe prens pour le temps, por vernage\nQui se départ, où je souloie\nMe tenir tristement en cage ;\nMais or changeray mon langage\nDe pleur en chant, quant recouvré\nAy bon temps. . . . . .\nBien me part avoir enduré.\n\n3.\nL'an mil quatre cens vingt et neuf,\nReprint à luire li soleil ;\nIl ramene le bon temps neuf\nQue on [n']avoit veu du droit œil\nPuis longtemps ; dont plusieurs en deuil\nOrent vesqui. J'en suis de ceulx ;\nMais plus de rien je ne me deuil,\nQuant ores voy [ce] que je veulx.",
+     "en": "1.\nI, Christine, who have wept\neleven years in a closed abbey,\nwhere I have stayed ever since\nCharles (it is a strange thing!),\nthe king's son, if I dare say it,\nfled from Paris in haste\nthrough the treason shut up there:\nnow for the first time I begin to laugh.\n\n2.\nTo laugh heartily for joy\nI begin, for the season, for the winter\nthat departs, in which I used\nto keep myself sadly in a cage;\nbut now I shall change my language\nfrom weeping into song, since I have\nfound good times again . . . . . .\nIt seems to me well to have endured.\n\n3.\nIn the year fourteen hundred and twenty-nine\nthe sun began to shine again;\nit brings back the good new time\nthat had not been seen with a straight eye\nfor a long time; so that many lived on\nin grief. I am one of them;\nbut I grieve no more for anything,\nnow that I see what I want.",
+     "lang": "fr",
+     "note": "Quicherat makes her sixty-seven; born about 1364, she was in fact about sixty-five. She had left Paris after the Burgundian seizure of the city in May 1418, when the dauphin Charles was carried out of it by night; the eleven years run from then. Quicherat notes that the poem's convent is not known (it is usually taken to be Poissy, where her daughter was a nun). The dots in stanza 2 mark a line incomplete in the edition, as his footnote says."
+    },
+    {
+     "n": 2,
+     "pg": "9–10",
+     "titel": "'Tu, Johanne, de bonne heure née' (stanzas 21–24)",
+     "orig": "21.\nEt toy, Pucelle beneurée,\nN'y dois-tu [mie] estre obliée,\nPuisque Dieu t'a tant honnourée,\nQui as la corde desliée,\nQui tenoit France estroit liée.\nTe pourroit-on assez louer\nQuant, ceste terre humiliée\nPar guerre, as fait de paix douer ?\n\n22.\nTu, Johanne, de bonne heure née,\nBenoist soit cil qui te créa !\nPucelle de Dieu ordonnée,\nEn qui le Saint-Esprit réa\nSa grant grace ; et qui ot et a\nToute largesse de hault don,\nN'onc requeste ne te véa :\nQue te rendra assez guerdon ?\n\n23.\nQue peut-il d'autre estre dit plus\nNe des grans faiz du temps passez ?\nMoyses, en qui Dieu afflus\nMist graces et vertus assez,\nIl tira sans estre lassez\nLe peuple Israel hors d'Egipte.\nPar miracle ainsi respassez\nNous as de mal, Pucelle eslite.\n\n24.\nConsidérée ta personne,\nQui es une joenne pucelle\nA qui Dieu force et povoir donne\nD'estre le champion, et celle\nQui donne à France la mamelle\nDe paix et doulce nourriture,\nA ruer jus la gent rebelle :\nVeci bien chose oultre nature.",
+     "en": "21.\nAnd you, blessed Maid,\nmust you be forgotten here,\nsince God has so honoured you,\nyou who have untied the cord\nthat held France tightly bound?\nCould one praise you enough,\nwhen to this land, humbled\nby war, you have given the dower of peace?\n\n22.\nYou, Jeanne, born in a good hour,\nblessed be he who created you!\nMaid ordained by God,\nin whom the Holy Spirit poured\nhis great grace; and who had and has\nevery largesse of high gift,\nnever refused you a request:\nwho will repay you enough?\n\n23.\nWhat more can be said\nof the great deeds of times past?\nMoses, in whom God abundantly\nput graces and virtues enough,\nled out, without growing weary,\nthe people of Israel from Egypt.\nSo by a miracle you have\nbrought us out of evil, chosen Maid.\n\n24.\nConsidering your person,\nyou who are a young maid\nto whom God gives strength and power\nto be the champion, and the one\nwho gives France the breast\nof peace and sweet nourishment,\nand throws down the rebel people:\nhere is a thing indeed beyond nature.",
+     "lang": "fr",
+     "note": "The poem names the Maid earlier, in its praise of Charles (stanzas 13–14), but addresses her directly only here, in its twenty-first stanza, after the king and God. The image of stanza 24, the Maid who gives France the breast of peace while throwing down the rebels, holds together the two things the poem praises her for."
+    },
+    {
+     "n": 3,
+     "pg": "13–14",
+     "titel": "'Hée ! quel honneur au féminin sexe !' (stanzas 34–36)",
+     "orig": "34.\nHée ! quel honneur au féminin\nSexe ! Que [Dieu] l'ayme, il appert,\nQuant tout ce grant peuple chenin\nPar qui tout le règne ert désert,\nPar femme est sours et recouvert,\nCe que pas hommes fait n'eüssent,\nEt les traittres mis à désert ;\nA peine devant ne le crussent.\n\n35.\nUne fillete de seize ans\n(N'est-ce pas chose fors nature ?)\nA qui armes ne sont pesans,\nAins semble que sa norriture\nY soit, tant y est fort et dure ;\nEt devant elle vont fuyant\nLes ennemis, ne nul n'y dure.\nElle fait ce, mains yeulx voiant.\n\n36.\nEt d'eulx va France descombrant,\nEn recouvrant chasteaulx et villes.\nJamais force ne fu si grant,\nSoient à cens, soient à miles.\nEt de noz gens preux et abiles\nElle est principal chevetaine.\nTel force n'ot Hector, ne Achilles ;\nMais tout ce fait Dieu qui la menne.",
+     "en": "34.\nAh! what honour to the female\nsex! That God loves it is plain,\nsince all this wretched people,\nby whom the whole realm lay waste,\nis raised up and recovered by a woman,\nwhich men would not have done,\nand the traitors brought to ruin;\nbefore, they would hardly have believed it.\n\n35.\nA little girl of sixteen\n(is this not a thing beyond nature?),\nto whom arms are not heavy,\nbut it seems she was brought up\nto them, she is so strong and hard in them;\nand before her the enemies\ngo fleeing, and none holds out.\nShe does this in the sight of many eyes.\n\n36.\nAnd of them she goes clearing France,\nrecovering castles and towns.\nNever was there force so great,\nbe they by hundreds or by thousands.\nAnd of our brave and able men\nshe is the principal captain.\nSuch strength had neither Hector nor Achilles;\nbut God, who leads her, does all this.",
+     "lang": "fr",
+     "note": "The author of the Book of the City of Ladies (1405) reads the Maid as the proof of her own argument: what men had not done, a woman has. Quicherat gives Thomassin's variant for the sixth line of stanza 34, 'what a hundred thousand men would not have done'. The 'sixteen' is the poem's figure; at Rouen Jeanne said she was about nineteen (Interr. Public, not carried here)."
+    },
+    {
+     "n": 4,
+     "pg": "15",
+     "titel": "'Car mors gisent par les sillons' (stanzas 39–41)",
+     "orig": "39.\nSi rabaissez, Anglois, vos cornes,\nCar jamais n'aurez beau gibier\nEn France, ne menez vos sornes ;\nMatez estes en l'eschiquier.\nVous ne pensiez pas l'autrier\nOù tant vous monstriez perilleux ;\nMais n'estiez encour ou sentier\nOù Dieu abat les orgueilleux.\n\n40.\nJà cuidiés France avoir gaingnée,\nEt qu'elle vous deust demourer.\nAutrement va, faulse mesgniée !\nVous irés ailleurs tabourer,\nSe ne voulez assavourer\nLa mort, comme voz compaignons,\nQue loups porroient bien devourer,\nCar mors gisent par les sillons.\n\n41.\nEt sachez que, par elle, Anglois\nSeront mis jus sans relever,\nCar Dieu le veult, qui ot les voix\nDes bons qu'ils ont voulu grever.\nLe sanc des occis sans lever\nCrie contre eulz. Dieu ne veult plus\nLe souffrir ; ains les resprouver\nComme mauvais, il est conclus.",
+     "en": "39.\nSo lower your horns, you English,\nfor you will never have fine game\nin France; stop your mockery;\nyou are checkmated on the board.\nYou did not think so the other day,\nwhen you showed yourselves so dangerous;\nbut you were not yet on the path\nwhere God throws down the proud.\n\n40.\nYou thought you had already won France,\nand that it must remain yours.\nIt goes otherwise, false crew!\nYou will go and beat your drums elsewhere,\nif you do not want to taste\ndeath, like your companions,\nwhom wolves may well devour,\nfor they lie dead along the furrows.\n\n41.\nAnd know that by her the English\nwill be thrown down never to rise,\nfor God wills it, who has heard the voices\nof the good whom they sought to harm.\nThe blood of the slain, lying unlifted,\ncries out against them. God will suffer it\nno longer, but has resolved\nto reject them as wicked.",
+     "lang": "fr",
+     "note": "Written six weeks after Patay (18 June 1429). The poem rejoices in the English dead: the wolves and the furrows are its images, not this site's. Stanza 38 had promised the French men-at-arms paradise for fighting 'for the right'."
+    },
+    {
+     "n": 5,
+     "pg": "16",
+     "titel": "The heretics and the Holy Land (stanzas 42–43)",
+     "orig": "42.\nEn chrestienté et en l'Église\nSera par elle mis concorde.\nLes mescréans dont on devise\nEt les hérites de vie orde\nDestruira, car ainsi l'accorde\nProphétie qui l'a prédit ;\nNe point n'aura miséricorde\nDe li, qui la foy Dieu laidit.\n\n43.\nDes Sarrasins fera essart\nEn conquerant la Sainte Terre ;\nLà menra Charles, que Dieu gard !\nAins qu'il muire fera tel erre.\nCilz est cil qui la doit conquerre :\nLà doit-elle finer sa vie\nEt l'un et l'autre gloire acquerre :\nLà sera la chose assovye.",
+     "en": "42.\nIn Christendom and in the Church\nshe will bring concord.\nThe unbelievers of whom people speak,\nand the heretics of filthy life,\nshe will destroy, for so it is agreed\nby prophecy that has foretold it;\nnor will she have mercy\non any who outrage God's faith.\n\n43.\nOf the Saracens she will make a clearing\nby conquering the Holy Land;\nshe will lead Charles there, God keep him!\nBefore he dies he will make that journey.\nHe is the one who must conquer it:\nthere she is to end her life,\nand both of them win glory:\nthere the thing will be fulfilled.",
+     "lang": "fr",
+     "note": "The 'heretics' are not named. In 1429 the obvious ones were the Hussites of Bohemia, against whom crusades had been preached since 1420; eight months later a letter in Jeanne's name threatened them with the sword (Letters [5]). The prophecy that the Maid would die in the Holy Land was not fulfilled; she died at Rouen, condemned as a heretic herself."
+    },
+    {
+     "n": 6,
+     "pg": "19–20",
+     "titel": "Paris, and the king who does not want blood (stanzas 54–56, 58)",
+     "orig": "54.\nCar ens entrera, qui qu'en groingne :\nLa Pucelle lui a promis.\nParis, tu cuides que Bourgoigne\nDefende qu'il ne soit ens mis ?\nNon fera, car ses ennemis\nPoint ne se fait. Nul n'est puissance\nQui l'en gardast, et tu soubmis\nSeras et ton oultrecuidance.\n\n55.\nO Paris, très mal conseillé !\nFolz habitans sans confiance !\nAyme-tu mieulx estre essillié\nQu'à ton prince faire accordance ?\nCertes, ta grant contrariance\nTe destruira, se ne t'avises.\nTrop mieulz te feust par suppliance\nRequerir mercy : mal y vises.\n\n56.\nGens a dedans mauvais, car bons\nY a maint, je n'en fais pas doubte ;\nMais parler n'osent, j'en respons,\nA qui moult desplaist et sans doubte\nQue leur prince ainsi on deboute.\nSi n'auront pas ceulx deservie\nLa punition où se boute\nParis, où maint perdront la vie.\n\n[...]\n\n58.\nEt que ne soit occision,\nCharles retarde tant qu'il peut,\nNe sur char d'omme incision ;\nCar de sang espandre se deult.\nMais au fort, qui rendre ne veult\nPar bel et doulceur ce qu'est sien,\nSe par force en effusion\nDe sang le requerre, il fut bien.",
+     "en": "54.\nFor he will enter, whoever grumbles:\nthe Maid has promised him.\nParis, do you think that Burgundy\nwill prevent his being let in?\nHe will not, for he does not make himself\nhis enemy. There is no power\nthat could keep him out, and you will be\nsubdued, and your presumption.\n\n55.\nO Paris, very ill advised!\nFoolish inhabitants without trust!\nDo you prefer to be laid waste\nrather than come to terms with your prince?\nCertainly your great obstinacy\nwill destroy you, if you do not take thought.\nIt would be far better for you to ask\nfor mercy in supplication: you aim badly.\n\n56.\nThere are bad people inside, for good ones\nthere are many, I do not doubt it;\nbut they dare not speak, I answer for it,\nwho are much displeased, and no doubt,\nthat their prince is thus thrust out.\nThose will not have deserved\nthe punishment Paris is rushing into,\nwhere many will lose their lives.\n\n[...]\n\n58.\nAnd so that there be no slaughter,\nCharles delays as long as he can,\nnor any cutting of men's flesh,\nfor he grieves to shed blood.\nBut in the end, whoever will not give back\nfairly and gently what is his,\nif he claims it by force, with shedding\nof blood, he does well.",
+     "lang": "fr",
+     "note": "Quicherat's introduction places the poem at the moment when Charles VII, master of Château-Thierry, could have been before Paris in three days and 'probably entered without resistance'; he explains the prophecies by that expectation. In fact the king negotiated with Burgundy, and the attack of 8 September failed (Letters [3] shows Jeanne's impatience with the truce). Paris opened to Charles only in April 1436. Quicherat corrects 'il fut bien' in stanza 58 to 'il fait bien'. Stanza 57 calls on the rebel towns to ask pardon."
+    },
+    {
+     "n": 7,
+     "pg": "21",
+     "titel": "'Le jour où fine le mois de juillet' (stanza 61)",
+     "orig": "61.\nDonné ce ditié par Christine,\nL'an dessusdit mil quatre cens\nEt vingt et neuf, le jour où fine\nLe mois de juillet. Mais j'entends\nQu'aucuns se tendront mal contens\nDe ce qu'il contient, car qui chière\nA embrunche et les yeux pesans,\nNe peut regarder la lumière.\n\nExplicit ung très bel ditié fait par Christine.",
+     "en": "61.\nThis poem given by Christine\nin the aforesaid year fourteen hundred\nand twenty-nine, on the day when\nthe month of July ends. But I hear\nthat some will be ill content\nwith what it contains, for whoever has\na lowered face and heavy eyes\ncannot look at the light.\n\nHere ends a very fine poem made by Christine.",
+     "lang": "fr",
+     "note": "31 July 1429, a fortnight after the coronation at Reims (stanzas 48–49, which give the date of 17 July). Quicherat calls these the only French verses written in Jeanne's lifetime that have come down to us, and says they are held to be Christine's last. She is generally thought to have died soon after, about 1430, before the trial."
+    }
+   ]
+  }
+ ]
+}

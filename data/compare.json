@@ -45,6 +45,28 @@
    ]
   },
   {
+   "id": "heretics",
+   "titel": "Who would destroy the heretics?",
+   "frage": "Christine's prophecy of July 1429, and the letter sent to Bohemia in Jeanne's name eight months later.",
+   "note": "Christine foretells that the Maid will destroy 'the heretics of filthy life' without mercy and then lead Charles to the Holy Land. The letter to the Hussites, composed by a clerk, threatens to leave the English and turn on Bohemia 'with the edge of the sword'. Neither happened. Fourteen months after the letter, the court at Rouen sentenced Jeanne herself as a heretic.",
+   "voices": [
+    {
+     "text": "christine",
+     "sec": "ditie",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "letters",
+     "sec": "letters",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
    "id": "church",
    "titel": "What did she say about the Church?",
    "frage": "Her answer in the prison session of 17 March 1431, and the twelfth article the judges drew from it.",

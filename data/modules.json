@@ -39,16 +39,17 @@
    "kurz": "The Journal of the siege of Orléans (March–May 1429)",
    "zk": "Orl.",
    "warum": "The city's own book, put together about 1467 from a register kept during the siege, from Quicherat's fourth volume (1847), read against the page images, with a working translation: the English answer to her letter ('whore', 'cowgirl', the threat of fire), her entry by torchlight 'as if they saw God come down among them', the Bastard's threat to kill the prisoners, the arrow at the Tourelles and 'En nom de Dieu', the bridge that 'gave way' (Quicherat: it was burned on purpose), and the Sunday on which she forbade the French to attack."
+  },
+  {
+   "id": "christine",
+   "datei": "christine",
+   "side": "france",
+   "kurz": "Christine de Pizan, Ditié de Jehanne d'Arc (31 July 1429)",
+   "zk": "Ditié",
+   "warum": "The only French verse written in her lifetime that has come down to us, by the author of the City of Ladies, a fortnight after Reims; twenty stanzas from Quicherat's fifth volume (1849), read against the page images, with a line-for-line working translation: 'Johanne, de bonne heure née', 'what honour to the female sex', the English dead in the furrows, the heretics she will destroy, the Holy Land where she is to die, and the threat to Paris."
   }
  ],
  "planned": [
-  {
-   "id": "christine",
-   "side": "france",
-   "kurz": "Christine de Pizan, Ditié de Jehanne d'Arc (31 July 1429)",
-   "warum": "The only poem written in her lifetime, by the most famous woman writer of the age, a fortnight after the coronation.",
-   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. V (1849)."
-  },
   {
    "id": "monstrelet",
    "side": "england",
