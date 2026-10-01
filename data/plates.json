@@ -1,5 +1,5 @@
 {
- "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), three miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library) (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), three miniatures from Martial d'Auvergne's Vigiles de Charles VII, a miniature from Christine de Pizan's own manuscript (British Library), the armorial of the Berry herald (Bibliothèque nationale de France) Jeanne's signature on a letter of 1430, her letter to Riom in a facsimile of 1911, and a page of Quicherat's edition (1841); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
  "plates": [
   {
@@ -64,6 +64,13 @@
    "titel": "'Jehanne ✠'",
    "caption": "The end of the French abjuration in Quicherat's edition, with the record's note of how it was signed: 'Jehanne' and a cross. In her letters of 1430 a cross could mean, she had told the judges, that the opposite of what was written should be done (Art. Twelve, article VI, not carried here). What she signed at Saint-Ouen, and how, were questions for the witnesses of the nullity trial (Ouen Abjuration [2]).",
    "source": "J. Quicherat, Procès de condamnation, vol. I (Paris 1841), p. 448; Internet Archive, procsdecondam01joanuoft (public domain)."
+  },
+  {
+   "id": "dunois",
+   "side": "reception",
+   "titel": "The Bastard of Orléans",
+   "caption": "Jean, count of Dunois, on horseback with the arms of Orléans crossed by the bastard's bend, in the armorial of Gilles le Bouvier, Berry herald of Charles VII; the inscription calls him 'conte de Dunois, bastard d'Orléans, lieutenant general'. In 1456 he was the first witness heard at Orléans, and remembered her first words to him: 'En nom Dieu, the counsel of God our Lord is safer and wiser than yours' (Wit. 1429 [1]).",
+   "source": "Gilles le Bouvier, Armorial, Paris, Bibliothèque nationale de France, ms. fr. 4985, fol. 18v, 15th century; Gallica btv1b85285803/f44, via Wikimedia Commons (public domain)."
   }
  ]
 }

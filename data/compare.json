@@ -131,6 +131,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "schedule",
+   "titel": "What did she sign at Saint-Ouen?",
+   "frage": "The abjuration entered in the record of 1431, and the usher who read her the schedule, twenty-five years later.",
+   "note": "The record gives a long abjuration in French, confessing that she had feigned her revelations, worn indecent clothing, desired the shedding of blood and been schismatic, signed 'Jehanne' with a cross. Jean Massieu, who read the schedule aloud to her, told the nullity court that it was about eight lines long, forbade her arms, men's clothes and cropped hair, and was not the one in the record; that she asked for it to be seen by the Church first; and that Érard told her she would burn that day if she did not sign. The second trial rested much of its case on this difference.",
+   "voices": [
+    {
+     "text": "saintouen",
+     "sec": "abjuration",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "witnesses",
+     "sec": "rouen",
+     "n": [
+      2
+     ]
+    }
+   ]
   }
  ]
 }
