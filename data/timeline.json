@@ -5,7 +5,8 @@
    "d": "March 1429",
    "side": "jeanne",
    "titel": "Chinon",
-   "text": "Jeanne, from Domrémy on the borders of Lorraine, comes to the court of Charles VII at Chinon and is examined by churchmen at Poitiers. (Modern accounts; module planned.)"
+   "text": "Jeanne, from Domrémy on the borders of Lorraine, comes to the court of Charles VII at Chinon and is examined by churchmen at Poitiers. (Modern accounts; module planned.)",
+   "plate": "chinon"
   },
   {
    "d": "22 March 1429",
@@ -17,7 +18,8 @@
    "d": "8 May 1429",
    "side": "france",
    "titel": "Orléans",
-   "text": "The English raise the siege of Orléans after the fall of the Tourelles. (Modern accounts; module planned.)"
+   "text": "The English raise the siege of Orléans after the fall of the Tourelles. (Modern accounts; module planned.)",
+   "plate": "fauquembergue"
   },
   {
    "d": "18 June 1429",
@@ -59,7 +61,17 @@
    "d": "9 January 1431",
    "side": "court",
    "titel": "The trial opens",
-   "text": "Pierre Cauchon, bishop of Beauvais, opens the proceedings at Rouen; the public sessions begin on 21 February. (Modern accounts; module planned.)"
+   "text": "Pierre Cauchon, bishop of Beauvais, opens the proceedings at Rouen on 9 January; on 21 February Jeanne is brought before the court and refuses to swear to answer everything. (Module planned for the preliminaries.)",
+   "cite": "#/text/interrogations/public/1",
+   "citeLabel": "Interr. Public [1]"
+  },
+  {
+   "d": "21 February – 17 March 1431",
+   "side": "court",
+   "titel": "The interrogations",
+   "text": "Six public sessions before forty and more assessors, then sessions in her cell: her voices, her sign to the king, men's clothing, the grace of God, and submission to the Church Militant. 'If I am not, may God put me there; and if I am, may God keep me there.'",
+   "cite": "#/text/interrogations/public/4",
+   "citeLabel": "Interr. Public [4]"
   },
   {
    "d": "24 May 1431",

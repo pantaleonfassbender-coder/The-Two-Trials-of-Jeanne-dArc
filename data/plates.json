@@ -1,5 +1,27 @@
 {
- "credit": "",
- "lede": "",
- "plates": []
+ "credit": "Plates: a marginal drawing in the register of the Parlement of Paris (Archives nationales), a miniature from Martial d'Auvergne's Vigiles de Charles VII (Bibliothèque nationale de France) and Jeanne's signature on a letter of 1430; public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "lede": "The only image made in her lifetime, by a clerk who never saw her; the images of the generation after the nullity trial; and her name in her own hand. Each plate names its source; the caption points to the passage it belongs with.",
+ "plates": [
+  {
+   "id": "fauquembergue",
+   "side": "france",
+   "titel": "The clerk of the Parlement draws the Maid",
+   "caption": "In the margin of the Parlement of Paris's register, against the entry for Tuesday 10 May 1429 that reports the fighting at Orléans, the clerk Clément de Fauquembergue drew a girl with long hair, a sword and a banner. He had never seen her; it is the only image made in her lifetime, by a man in English-held Paris who knew her only from report.",
+   "source": "Paris, Archives nationales, X1a 1481, fol. 12r (detail), 10 May 1429; via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "chinon",
+   "side": "jeanne",
+   "titel": "Jeanne brought to Chinon",
+   "caption": "Jeanne, dressed as a woman, is led to the king by two men of his household. Under the picture the verses of Martial d'Auvergne have her say 'Gentil roy, je vous meneray couronner à Rains'. Painted some fifty years after the event, for a poem written in praise of Charles VII after the nullity trial: the image of 1484 is already the image of the rehabilitation.",
+   "source": "Martial d'Auvergne, Les Vigiles de Charles VII, Paris, Bibliothèque nationale de France, ms. fr. 5054, fol. 55v, c. 1484; via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "signature",
+   "side": "jeanne",
+   "titel": "'Jehanne'",
+   "caption": "The name at the foot of her letter to the people of Reims, written from Sully on 16 March 1430. She could not write; the letters she sent were dictated, and she seems to have learned to sign her name in the last year of her freedom. At Rouen the abjuration of 24 May 1431 was signed, by the witnesses' account, with a cross or a mark.",
+   "source": "Letter to the inhabitants of Reims, 16 March 1430, family archives of Maleissye (reproduction); via Wikimedia Commons (public domain)."
+  }
+ ]
 }

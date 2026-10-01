@@ -4,9 +4,12 @@ A documentary apparatus for the two trials of Jeanne d'Arc: the trial of condemn
 
 Its thesis, to be tested against the texts: the court won its case, and England lost France. The judges of Rouen condemned Jeanne as a relapsed heretic and the English burned her; within twenty years the king she had crowned held Paris and Rouen, and in 1456 a second court declared the first trial null.
 
-Stage 1 (in progress). Planned, in the order of work (see `data/modules.json`):
+Stage 1 (in progress) carries one module:
 
-- **The interrogations at Rouen** (February–March 1431).
+- **The interrogations at Rouen** — Quicherat I (1841), pp. 45–187: eight excerpts from the public sessions (Latin) and the sessions in her prison (the French minute), read against the page images, with T. Douglas Murray's English (1902) where checked and a working translation elsewhere.
+
+Planned, in the order of work (see `data/modules.json`):
+
 - **The Twelve Articles and the University of Paris.**
 - **Saint-Ouen: abjuration, relapse and sentence** (24–30 May 1431).
 - **Jeanne's letters** (1429–1430), with the letter to the Hussites.
@@ -20,6 +23,14 @@ Stage 1 (in progress). Planned, in the order of work (see `data/modules.json`):
 Main editions: Jules Quicherat, *Procès de condamnation et de réhabilitation de Jeanne d'Arc* (5 vols., Paris 1841–1849); Pierre Champion, *Procès de condamnation* (Paris 1920–1921); T. Douglas Murray, *Jeanne d'Arc, Maid of Orleans* (London 1902). All in the public domain.
 
 The companion game *En nom Dieu* takes its title from Jeanne's own formula.
+
+## Building the data
+
+```
+python tools/build-interrogations.py
+```
+
+The texts are kept in `tools/interrogations_text.py`.
 
 ## Running locally
 

@@ -1,13 +1,15 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "interrogations",
+   "datei": "interrogations",
    "side": "court",
    "kurz": "The interrogations at Rouen (February–March 1431)",
-   "warum": "The record of the public and private examinations: her voices, her sign to the king, men's clothing, submission to the Church Militant, and the answer on God's grace.",
-   "quelle": "J. Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc, vol. I (1841); P. Champion, Procès de condamnation (1920); English T. D. Murray (1902)."
-  },
+   "zk": "Interr.",
+   "warum": "The record of the sessions, from Quicherat's edition (1841), read against the page images, in Latin and in the surviving French minute, with Murray's English (1902) or a working translation: the oath, 'Jeannette', the voice in her father's garden, 'if I am not, may God put me there', the English to lose everything in France, God and the Church 'all one', and the standard 'in the labour' and 'in the honour'."
+  }
+ ],
+ "planned": [
   {
    "id": "articles",
    "side": "court",

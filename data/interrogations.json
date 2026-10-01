@@ -1,0 +1,99 @@
+{
+ "titel": "The interrogations at Rouen",
+ "autor": "The court of Pierre Cauchon, bishop of Beauvais; the notaries Guillaume Manchon, Guillaume Colles (Boisguillaume) and Nicolas Taquel; Latin by Thomas de Courcelles",
+ "jahr": "February–March 1431",
+ "orig_sprache": "la",
+ "pg_label": "Quicherat I p.",
+ "quelle": "J. Quicherat (ed.), Procès de condamnation et de réhabilitation de Jeanne d'Arc, dite la Pucelle, vol. I (Paris: Renouard, 1841), pp. 45–187. Internet Archive, procsdecondam01joanuoft. English in part from T. Douglas Murray, Jeanne d'Arc, Maid of Orleans (London 1902). Public domain.",
+ "hinweis": "Eight excerpts from the record of the public and private sessions, read against the page images: the Latin of the official record, and for the sessions in her prison the surviving French minute. Cuts are marked [...]. The English is Murray's where it was checked and found close, otherwise this site's working translation (CC0); each note says which.",
+ "sections": [
+  {
+   "id": "public",
+   "zk": "Interr. Public",
+   "titel": "The public sessions, 21 February to 3 March 1431",
+   "blurb": "Six sessions in the castle chapel and a room near the great hall, before forty and more assessors: the oath, her name, the voice in her father's garden, the question of grace, and the prophecy that the English would lose everything in France.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "45",
+     "titel": "'You may ask me things I will not tell you'",
+     "orig": "Insuper ex officio nostro, ipsam Johannam judicialiter requisivimus quatenus juramentum in forma debita, tactis sacrosanctis Evangeliis, præstaret, de dicendo veritatem, ut præmittitur, super his de quibus interrogaretur. Quæ quidem Johanna ad hoc in hunc modum respondit : « Nescio super quibus vultis me interrogare. Forte vos poteritis a me talia petere, quæ non dicam vobis. » Cum vero nos eidem diceremus : « Vos jurabitis dicere veritatem de his quæ petentur a vobis, fidei concernentibus et quæ scietis ? » Ipsa rursum respondit quod de patre et matre, et his quæ fecerat, postquam iter arripuerat in Franciam, libenter juraret ; sed de revelationibus ex parte Dei, nunquam alicui dixerat seu revelaverat, nisi soli Karolo quem dicit regem suum ; nec etiam revelaret si deberet eidem caput amputari ; quia hoc habebat per visiones sive consilium suum secretum, ne alicui revelaret ; et quod infra octo dies proximos, bene sciret si hoc deberet revelare.",
+     "en": "Further, by virtue of our office, we judicially required the said Jeanne to take the oath in due form, touching the holy Gospels, to tell the truth, as has been said, on the matters on which she would be questioned. To this Jeanne answered thus: 'I do not know what you mean to ask me. Perhaps you may ask me things I will not tell you.' And when we said to her: 'Will you swear to tell the truth on what is asked you concerning the faith, and what you know?', she answered again that she would gladly swear concerning her father and mother and what she had done since she set out for France; but the revelations from God she had never told or revealed to anyone except to Charles, whom she calls her king; nor would she reveal them if her head were to be cut off for it, because she had them by visions, or by her secret counsel, so that she should reveal them to no one; and within the next eight days she would know well whether she ought to reveal them.",
+     "lang": "la",
+     "note": "The first public session, Wednesday 21 February 1431, in the chapel of the castle of Rouen. The record speaks in the bishop's voice ('we'): it is Pierre Cauchon's trial. The dispute over the oath, whether she would swear to answer everything or only what touched the faith, opened every session. Working translation."
+    },
+    {
+     "n": 2,
+     "pg": "46–47",
+     "titel": "'In my own country they called me Jeannette'",
+     "orig": "Item, juramento sic posito, eadem Johanna per nos interrogata fuit de nomine et cognomine ipsius. Ad quæ respondit, quod in partibus suis vocabatur Johanneta, et postquam venit in Franciam vocata est Johanna. De cognomine autem suo dicebat se nescire. [...] Item, interrogata cujus ætatis ipsa erat : respondit quod, prout sibi videtur, est quasi XIX annorum. Dixit præterea quod a matre didicit Pater noster, Ave Maria, Credo ; nec alibi didicit credentiam, nisi a præfata ejus matre. Item, requisita per nos quod diceret Pater noster : respondit quod audiremus eam in confessione et ipsa nobis diceret libenter. [...] Quibus sic peractis, nos episcopus prædictus, prohibuimus eidem Johannæ ne recederet de carceribus sibi assignatis infra castrum Rothomagense, absque licentia nostra, sub pœna convicti de crimine hæresis. Ipsa vero respondit quod non acceptabat illam inhibitionem, dicens ulterius quod, si evaderet, nullus posset eam reprehendere quod fidem suam fregisset vel violasset, quia nulli unquam fidem dederat. [...] Ad quod respondit dicens : « Verum est quod alias volui et vellem, prout licitum est cuicumque incarcerato seu prisionario, evadere. »",
+     "en": "Then, the oath having been so taken, the said Jeanne was questioned by us on her name and surname. To which she answered that in her own country she was called Jeannette, and since she came into France she has been called Jeanne. Of her surname she said she knew nothing. [...] Asked how old she was, she answered that, as it seemed to her, she was about nineteen. She said further that she had learned the Pater noster, the Ave Maria and the Credo from her mother, and had learned her belief nowhere else but from her mother. Required by us to say the Pater noster, she answered that we should hear her in confession and she would gladly say it to us. [...] This done, we, the said bishop, forbade the said Jeanne to leave the prison assigned to her in the castle of Rouen without our leave, under pain of being convicted of the crime of heresy. She answered that she did not accept this prohibition, saying further that if she escaped, no one could blame her for having broken or violated her faith, because she had never given her word to anyone. [...] To which she answered: 'It is true that I have wished, and would still wish, to escape, as it is lawful for any prisoner or captive to do.'",
+     "lang": "la",
+     "note": "The cuts give her parents, Jacques d'Arc and Isabelle, her godparents, the priest who baptised her, and her complaint that she was kept in irons. The refusal to say the Pater noster except in confession was a claim: a confessor could not repeat what he heard. Escape from a prison of war was lawful for a prisoner who had given no parole; from the prison of a court of faith it was a sign of heresy. On the threshold of the trial Jeanne still speaks as a prisoner of war. Working translation; Murray's English of the passage is on his pp. 6–7."
+    },
+    {
+     "n": 3,
+     "pg": "52–53",
+     "titel": "The voice in her father's garden",
+     "orig": "Ulterius confessa fuit quod, dum esset ætatis XIII annorum, ipsa habuit vocem a Deo, pro se juvando ad gubernandum. Et prima vice, habuit magnum timorem. Et venit illa vox, quasi hora meridiana, tempore æstivo, in horto patris sui ; et ipsa Johanna jejunaverat die præcedenti. Audivitque vocem a dextro latere versus ecclesiam, et raro eam audit sine claritate. [...] Ulterius confessa fuit quod illa vox sibi dicebat bis aut ter in hebdomade, quod oportebat ipsam Johannam recedere et venire in Franciam ; et quod pater suus nihil scivit de suo recessu. Dixit etiam quod vox dicebat sibi quod veniret in Franciam, et non poterat plus durare ubi erat ; quodque vox illa sibi dicebat quod levaret obsidionem, coram civitate Aurelianensi positam. Dixit ulterius vocem præfatam sibi dixisse, quod ipsa Johanna iret ad Robertum de Baudricuria, apud oppidum de Vallecoloris, capitaneum dicti loci, et ipse traderet sibi gentes secum ituras ; et ipsa Johanna tunc respondit quod erat una pauper filia quæ nesciret equitare, nec ducere guerram.",
+     "en": "She further confessed that when she was thirteen years old she had a voice from God to help her govern herself. And the first time she was much afraid. And the voice came at about noon, in summer, in her father's garden; and the said Jeanne had fasted the day before. She heard the voice on her right side, towards the church, and she seldom hears it without a light. [...] She further confessed that the voice told her two or three times a week that she must go away and come into France, and that her father knew nothing of her leaving. She said too that the voice told her to come into France, and she could no longer stay where she was; and that the voice told her she would raise the siege laid before the city of Orléans. She said further that the voice had told her to go to Robert de Baudricourt, captain of the town of Vaucouleurs, and he would give her people to go with her; and she, Jeanne, answered then that she was a poor girl who did not know how to ride or to lead a war.",
+     "lang": "la",
+     "note": "Thursday 22 February 1431, the second public session. 'Confessa fuit', 'she confessed': the clerk's word turns every answer into an admission. Murray translates from a text that read 'I had not fasted the day before' (his p. 10); Quicherat's Latin says she had fasted. Working translation."
+    },
+    {
+     "n": 4,
+     "pg": "65",
+     "titel": "'If I am not, may God put me there'",
+     "orig": "Et tunc petitum fuit sibi utrum illa vox a qua consilium petebat, habebat visum et oculos. Respondit : « Vos non hoc habebitis adhuc. » Et dixit quod dictum parvorum puerorum est quod « aliquando homines suspenduntur, pro dicendo veritatem. » Interrogata an sciat quod ipsa sit in gratia Dei : respondit : « Si ego non sim, Deus ponat me ; et si ego sim, Deus me teneat in illa. Ego essem magis dolens de toto mundo, si ego scirem me non esse in gratia Dei. » Dixit ultra, si esset in peccato, credit quod vox non veniret ad eam ; et vellet quod quilibet intelligeret æque bene sicut ipsa. Item dixit quod ipsa tenet quod erat in ætate tredecim annorum, vel circiter, quando prima vox venit ad eam.",
+     "en": "\"The Voice from whom you ask counsel, has it a face and eyes?\" \"You shall not know yet. There is a saying among children, that 'Sometimes one is hanged for speaking the truth.'\" \"Do you know if you are in the grace of God?\" \"If I am not, may God place me there; if I am, may God so keep me. I should be the saddest in all the world if I knew that I were not in the grace of God. But if I were in a state of sin, do you think the Voice would come to me? I would that every one could hear the Voice as I hear it. I think I was about thirteen when it came to me for the first time.\"",
+     "lang": "la",
+     "note": "Saturday 24 February 1431. The question was a trap: to say yes was presumption, since no one can know it; to say no was to confess herself in sin. The questioner was Jean Beaupère, a master of Paris; witnesses of the nullity trial still remembered the answer twenty-five years later. English: Murray, p. 18, checked against the Latin; Murray turns the clerk's indirect speech into direct speech throughout."
+    },
+    {
+     "n": 5,
+     "pg": "84",
+     "titel": "'Before seven years are passed'",
+     "orig": "Item dicit quod, antequam sint septem anni, Anglici dimittent majus vadium quam fecerint coram Aurelianis, et quod totum perdent in Francia. Dicit etiam quod præfati Anglici habebunt majorem perditionem quam unquam habuerunt in Francia ; et hoc erit per magnam victoriam quam Deus mittet Gallicis. Interrogata qualiter hoc scit : respondit : « Ego bene scio istud per revelationem quæ mihi facta fuit, et quod ante septem annos eveniet ; et bene essem irata quod tantum differretur. » Dixit etiam quod illud per revelationem scit, æque bene sicut sciebat quod eramus tunc ante ipsam. Interrogata quando istud eveniet : respondit quod nescit diem neque horam.",
+     "en": "She says too that before seven years are out the English will leave a greater pledge than they did before Orléans, and that they will lose everything in France. She says also that the said English will have a greater loss than they ever had in France, and this will be by a great victory which God will send to the French. Asked how she knows this, she answered: 'I know it well by a revelation made to me, and that it will happen before seven years; and I should be very angry that it is put off so long.' She said too that she knows it by revelation as well as she knew that we were then before her. Asked when it will happen, she answered that she does not know the day or the hour.",
+     "lang": "la",
+     "note": "Thursday 1 March 1431, after she had been shown her letter to the English of March 1429 (which she said had been altered in three places). Paris fell to Charles VII in April 1436, five years later; the English held Rouen until 1449. The prophecy is the thesis of this apparatus spoken by its subject: the court will win its case, and England will lose France. Working translation; Murray, p. 38."
+    }
+   ]
+  },
+  {
+   "id": "prison",
+   "zk": "Interr. Prison",
+   "titel": "In her prison, March 1431",
+   "blurb": "The sessions held in her cell before a few assessors, where the French minute survives: the Church Militant and the Church Triumphant, whether God hates the English, and the standard at Reims.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "175–176",
+     "titel": "'It is all one, God and the Church'",
+     "orig": "Interroguée de dire s'elle se rapportera à la déterminacion de l'Église : respond : « Je m'en rapporte à nostre Seigneur, qui m'a envoyée, à Nostre Dame, et à tous les benoicts Saints et Sainctes de paradis. » Et luy est advis que c'est tout ung de nostre Seigneur et de l'Église, et que on n'en doit point faire de difficulté, en demandant pour quoy on fait difficulté que ce ne soit tout ung. Adonc luy fut dit que il y a l'Église triomphant, où est Dieu, les saincts, les angles et les ames saulvées. L'Église militant c'est nostre saint père le Pape, vicaire de Dieu en terre, les cardinaulx, les prélas de l'Église et clergié, et tous bons chrestiens et catholiques ; laquelle Église bien assemblée ne peut errer, et est gouvernée du Saint Esperit. Et pour ce, interroguée s'elle se veult raporter à l'Église militant, c'est assavoir c'est celle qui est ainsi déclairée : respond qu'elle est venue au roy de France de par Dieu, de par la vierge Marie et tous les benoitz Sains et Sainctes de paradis, et l'Église victorieuse de là hault, et de leur commandement ; et à celle Église-là elle submeict tous ses bons fais, et tout ce qu'elle a fait ou à faire. Et de respondre s'elle se submeictra à l'Église militant, dit qu'elle n'en respondra maintenant autre chose.",
+     "en": "\"Will you refer yourself to the decision of the Church?\" \"I refer myself to God Who sent me, to Our Lady, and to all the Saints in Paradise. And in my opinion it is all one, God and the Church; and one should make no difficulty about it. Why do you make a difficulty?\" \"There is a Church Triumphant in which are God and the Saints, the Angels, and the Souls of the Saved. There is another Church, the Church Militant, in which are the Pope, the Vicar of God on earth, the Cardinals, Prelates of the Church, the Clergy and all good Christians and Catholics: this Church, regularly assembled, cannot err, being ruled by the Holy Spirit. Will you refer yourself to this Church which we have thus just defined to you?\" \"I came to the King of France from God, from the Blessed Virgin Mary, from all the Saints of Paradise, and the Church Victorious above, and by their command. To this Church I submit all my good deeds, all that I have done or will do. As to saying whether I will submit myself to the Church Militant, I will not now answer anything more.\"",
+     "lang": "fr",
+     "note": "Saturday 17 March 1431, morning, in her prison. The French minute of the session survives and is carried here; the Latin of the official record (pp. 175–176) follows it closely. Submission to the Church Militant, to the judges in front of her, became the centre of the case: her refusal was the ninth of the Twelve Articles and the ground of the sentence. English: Murray, pp. 86–87, checked against the French."
+    },
+    {
+     "n": 2,
+     "pg": "178",
+     "titel": "'Does God hate the English?'",
+     "orig": "Interroguée s'elle sçait point que sainctes Katherine et Marguerite haient les Angloys : respond : « Elles ayment ce que nostre Seigneur ayme, et haient ce que Dieu hait. » Interroguée se Dieu hait les Angloys : respond que de l'amour ou haine que Dieu a aux Angloys, ou que Dieu leur feit à leurs ames, ne sçait rien ; mais sçait bien que ilz seront boutez hors de France, excepté ceulx qui y mourront ; et que Dieu envoyera victoire aux Françoys, et contre les Angloys. Interroguée se Dieu estoit pour les Angloys, quant ilz estoient en prospérité en France : respond qu'elle ne sçait se Dieu hayet les Françoys ; mais croist qu'il vouloit permeictre de les laisser batre pour leurs péchiez, s'ilz y estoient.",
+     "en": "\"Do you know if Saint Catherine and Saint Margaret hate the English?\" \"They love what God loves: they hate what God hates.\" \"Does God hate the English?\" \"Of the love or hate God may have for the English, or of what He will do for their souls, I know nothing; but I know quite well that they will be put out of France, except those who shall die there, and that God will send victory to the French against the English.\" \"Was God for the English when they were prospering in France?\" \"I do not know if God hated the French; but I believe that He wished them to be defeated for their sins, if they were in sin.\"",
+     "lang": "fr",
+     "note": "The same session, 17 March. The trial's costs were paid by the English government, and the prisoner was held in the castle by English soldiers. The question tried to make her voices partisan; the answer separates the souls of the English, of which she claims to know nothing, from their place in France. English: Murray, p. 88, checked against the French."
+    },
+    {
+     "n": 3,
+     "pg": "187",
+     "titel": "'It had been in the labour; it was right it should be in the honour'",
+     "orig": "Interroguée se on fist point floter ou tournier son estaindart au tour de la coste de son roy : respond que non qu'elle saiche. Interroguée pour quoy il fut plus porté en l'église de Rains, au sacre, que ceulx des autres cappitaines : respond : « Il avoit esté à la paine, c'estoit bien raison que il fut à l'onneur. »",
+     "en": "Asked whether anyone had made her standard float or turn about her king's head: she answers no, not that she knows. Asked why it was carried into the church of Reims at the coronation more than those of the other captains, she answers: 'It had been in the labour; it was very right that it should be in the honour.'",
+     "lang": "fr",
+     "note": "17 March, afternoon. The standard was the evidence for the charge of superstition: had she put a spell on it? Quicherat notes that 'coste' should be read 'teste', head. The answer is perhaps the most quoted line of the trial. Murray's English omits the passage; working translation. The Latin of the record (p. 187) has 'in pœna ... honorem'."
+    }
+   ]
+  }
+ ]
+}
